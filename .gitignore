@@ -1,0 +1,22 @@
+# Build artifacts
+/dist/
+/build/
+*.egg-info/
+
+# uv / venv
+.venv/
+uv.lock
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Tool output — never commit decrypted passwords!
+/chrome-passwords-export/
+*.csv
+
+# Editor / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
