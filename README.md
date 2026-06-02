@@ -1,5 +1,9 @@
 # chrome-restore-local-passwords-linux
 
+[![PyPI version](https://img.shields.io/pypi/v/chrome-restore-local-passwords-linux)](https://pypi.org/project/chrome-restore-local-passwords-linux/)
+[![Python versions](https://img.shields.io/pypi/pyversions/chrome-restore-local-passwords-linux)](https://pypi.org/project/chrome-restore-local-passwords-linux/)
+[![License: MIT](https://img.shields.io/pypi/l/chrome-restore-local-passwords-linux)](LICENSE)
+
 Recover the passwords Chrome/Chromium saved **on disk** on Linux, and export them to
 **Chrome-importable CSV files — one per profile**.
 
